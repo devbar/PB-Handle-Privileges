@@ -1,0 +1,17 @@
+HA$PBExportHeader$p_privileges_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:privileges.exe,,0,1,1
+CMP:0,0,0,2,0,0,1
+COM:SAP AG
+DES:SAP AG Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:1,asInvoker,0
+PBD:privileges.pbl,,0
+OBJ:c:\users\siron\powerbuilder\privileges\privileges.pbl,w_main,w
+OBJ:C:\Users\Siron\PowerBuilder\Privileges\privileges.pbl,privileges,a
+OBJ:c:\users\siron\powerbuilder\privileges\privileges.pbl,n_cst_platform_privileges,u
