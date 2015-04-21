@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "privileges.pbl" "";
+@end;
+@begin Objects
+ "w_main.srw" "privileges.pbl";
+ "p_privileges_exe.srj" "privileges.pbl";
+ "privileges.sra" "privileges.pbl";
+ "n_cst_platform_privileges.sru" "privileges.pbl";
+@end;
